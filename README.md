@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<h3 align="center">Ever since I was young, I have had a passion modify and/or create things. Very quickly I exchanged my plastic hammer for some real tools. Very rarely do I find something off the shelf and not think of ways to improve.</h3>
+<h3 align="center">Ever since I was young, I have had a passion to modify and/or create things. Very quickly I exchanged my plastic hammer for some real tools. Very rarely do I find something off the shelf and not think of ways to improve.</h3>
 
 
 - 🔭 I’m currently working on upgrading my 3D Printer                       **project writeup coming soon**
